@@ -1,0 +1,5 @@
+[language]
+Architecture: all
+logical_id = community_lang_en
+string_package = languages
+default_region_locale = en_GB
