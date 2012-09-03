@@ -88,7 +88,7 @@
         <translatorcomment>Mass Storage mode</translatorcomment>
         <translation type="obsolete">Режим внешнего диска</translation>
     </message>
-    <message>
+    <message id="qtn_stat_no_coverage">
         <source>qtn_stat_no_coverage</source>
         <translatorcomment>No coverage</translatorcomment>
         <translation type="obsolete">Сеть недоступна</translation>
@@ -153,7 +153,7 @@
         <translatorcomment>USB cable disconnected</translatorcomment>
         <translation type="obsolete">Кабель USB отсоединён</translation>
     </message>
-    <message>
+    <message id="qtn_noti_timestamp_latest">
         <source>qtn_noti_timestamp_latest</source>
         <translatorcomment>Latest</translatorcomment>
         <translation type="obsolete">Последний</translation>
@@ -229,10 +229,6 @@
         <source>Getting low with storage. Please check.</source>
         <translation>Зарядка не началась. Замените зарядное устройство.</translation>
     </message>
-    <message id="qtn_noti_timestamp_latest">
-        <source></source>
-        <translation></translation>
-    </message>
     <message id="qtn_shut_high_temp">
         <source>Temperature too high. Device shutting down.</source>
         <translation>Высокая температура. Устройство выключается.</translation>
@@ -255,11 +251,7 @@
     </message>
     <message id="qtn_cell_emergency_calls_only">
         <source></source>
-        <translation></translation>
-    </message>
-    <message id="qtn_stat_no_coverage">
-        <source></source>
-        <translation></translation>
+        <translation>Только экстренные вызовы</translation>
     </message>
     <message id="qtn_noti_clear">
         <source>Clear</source>
@@ -270,8 +262,9 @@
         <translation>И еще</translation>
     </message>
     <message id="qtn_stat_menu_poweroff_query">
-        <source></source>
-        <translation></translation>
+        <source>qtn_stat_menu_poweroff_query</source>
+        <translatorcomment>qtn_stat_menu_poweroff_query</translatorcomment>
+        <translation>Выключить</translation>
     </message>
     <message id="qtn_stat_menu_settings">
         <source>Settings</source>
@@ -326,12 +319,12 @@
         <translation>Режим MTP</translation>
     </message>
     <message id="qtn_usb_filessystem_inuse">
-        <source></source>
-        <translation></translation>
+        <source>qtn_usb_filessystem_inuse</source>
+        <translation>Файловая система используется</translation>
     </message>
     <message id="qtn_usb_mount_failed">
-        <source></source>
-        <translation></translation>
+        <source>qtn_usb_mount_failed</source>
+        <translation>Не удалось монтировать устройство</translation>
     </message>
 </context>
 </TS>
